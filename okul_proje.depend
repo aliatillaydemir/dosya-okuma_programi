@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571981545 source:c:\users\pc\desktop\okul_proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
